@@ -3,3 +3,4 @@
 |Iniciando hoje os algoritmos sem linguagem pelo exercism|
 
 * Já realizado o Hello World
+* Iniciando o algoritmo Lasanha no exercism
