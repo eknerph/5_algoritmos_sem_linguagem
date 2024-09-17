@@ -4,4 +4,3 @@
 
 * Já realizado o Hello World
 * Iniciando o algoritmo Lasanha no exercism
-* já realizado os dois algoritmos indo para o terceiro
