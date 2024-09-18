@@ -5,4 +5,4 @@
 * Já realizado o Hello World
 * Concluído o algoritmo Lasanha no exercism
 * Concluído o algoritmo Parque de Diversões no exercism
-* Concluído o algoritmo Lasanha no exercism
+* Concluído o algoritmo Two Sum no LeetCode
