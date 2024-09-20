@@ -6,3 +6,4 @@
 * Concluído o algoritmo Lasanha no exercism
 * Concluído o algoritmo Parque de Diversões no exercism
 * Concluído o algoritmo Two Sum no LeetCode
+* Iniciando Fase 0: NÍVEL 2
