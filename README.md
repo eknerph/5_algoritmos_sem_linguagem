@@ -7,3 +7,4 @@
 * Concluído o algoritmo Parque de Diversões no exercism
 * Concluído o algoritmo Two Sum no LeetCode
 * Iniciando Fase 0: NÍVEL 2
+* Inicializei a linguagem hoje
