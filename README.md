@@ -7,4 +7,5 @@
 * Concluído o algoritmo Parque de Diversões no exercism
 * Concluído o algoritmo Two Sum no LeetCode
 * Iniciando Fase 0: NÍVEL 2
-* Inicializei a linguagem hoje
+* Inicializei a linguagem 20/09/24 e finalizado
+* Inicializado HABILIDADES da fase 0: Nível 2
